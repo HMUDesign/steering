@@ -1,5 +1,14 @@
 {
   "name": "steering",
-  "version": "1.0.0-0",
-  "main": "steering.jsx"
+  "version": "1.0.0",
+  "main": "steering.jsx",
+  "homepage": "https://github.com/HMUDesign/steering",
+  "author": {
+    "name": "Christopher Baker",
+    "email": "christopher@hmudesign.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/HMUDesign/steering.git"
+  }
 }
